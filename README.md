@@ -1,5 +1,5 @@
 # React Native - Pinterest App
-<img src="https://github.com/user-attachments/assets/7b1321f7-e6d3-4f75-937f-49448bc080dd" width="750" height="450"/>
+<img src="https://github.com/user-attachments/assets/71852607-5d79-4820-a6de-14cb98c4b589" width="800" height="450"/>
 
 
 ## Table of Contents
